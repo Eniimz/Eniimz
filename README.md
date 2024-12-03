@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Azaz Ahsan</h1><br>  
 <h3 align="center">I'm a Fullstack Web Dev</h3><br>  
 
-- 🔍 <span style="font-size: 1.25em;">Interested in <strong>Low-level programming</strong> and exploring system-level concepts</span>  
-- 🧩 <span style="font-size: 1.25em;">I'm currently learning <strong>Cloud Computing</strong></span>  
-- 💬 <span style="font-size: 1.25em;">Ask me about <strong>Fullstack web development</strong> and <strong>Cloud</strong></span>  
-- 🗂️ <span style="font-size: 1.25em;">Explore my projects at <a href="https://github.com/Eniimz">github.com/Eniimz</a></span>
+- 🔍 <span style="font-size: 2.25em;">Interested in <strong>Low-level programming</strong> and exploring system-level concepts</span>  
+- 🧩 <span style="font-size: 2.25em;">I'm currently learning <strong>Cloud Computing</strong></span>  
+- 💬 <span style="font-size: 2.25em;">Ask me about <strong>Fullstack web development</strong> and <strong>Cloud</strong></span>  
+- 🗂️ <span style="font-size: 2.25em;">Explore my projects at <a href="https://github.com/Eniimz">github.com/Eniimz</a></span>
 
 
 
@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Firebase_Logo.svg" width="40" height="40" />
+  <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Tailwind_CSS_Logo.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
 

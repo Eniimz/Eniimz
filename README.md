@@ -12,12 +12,9 @@ Explore my projects at [My GitHub](https://github.com/Eniimz)
 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://yourblog.com" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=rss&logoColor=white" alt="RSS" />
-</a>
 
 ## Languages and Tools:
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />

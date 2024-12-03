@@ -11,7 +11,7 @@
 ---
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+<a href="https://www.linkedin.com/in/azaz-ahsan-1a9330288/" target="_blank">
   <img width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
 </a>
 

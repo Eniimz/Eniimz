@@ -12,7 +12,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
 </a>
 
 ## Languages and Tools:
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Eniimz)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Eniimz) -->
 
 ---
 

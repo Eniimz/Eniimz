@@ -2,10 +2,10 @@
 <h3 align="center">I'm a Fullstack Web Dev</h3><br>  
 
 
-- 🔍 ####Interested in **Low-level programming** and exploring system-level concepts<br>  
-- 🧩 ####I'm currently learning **Cloud Computing**<br>  
-- 💬 ####Ask me about **Fullstack web development** and **Cloud**<br>  
-- 🗂️ ####Explore my projects at [github.com/Eniimz](https://github.com/Eniimz)
+- 🔍 #### Interested in **Low-level programming** and exploring system-level concepts<br>  
+- 🧩 #### I'm currently learning **Cloud Computing**<br>  
+- 💬 #### Ask me about **Fullstack web development** and **Cloud**<br>  
+- 🗂️ #### Explore my projects at [github.com/Eniimz](https://github.com/Eniimz)
 
 ---
 

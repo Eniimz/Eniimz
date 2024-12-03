@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I'm Azaz Ahsan</h1><br>  
 <h3 align="center">I'm a Fullstack Web Dev</h3><br>  
-<p align="left">
-- 🔍 Interested in **Low-level programming** and exploring system-level concepts<br>  
-- 🧩 I'm currently learning **Cloud Computing**<br>  
-- 💬 Ask me about **Fullstack web development** and **Cloud**<br>  
-- 🗂️ Explore my projects at [github.com/Eniimz](https://github.com/Eniimz)
-</p>
+
+
+####- 🔍 Interested in **Low-level programming** and exploring system-level concepts<br>  
+####- 🧩 I'm currently learning **Cloud Computing**<br>  
+####- 💬 Ask me about **Fullstack web development** and **Cloud**<br>  
+####- 🗂️ Explore my projects at [github.com/Eniimz](https://github.com/Eniimz)
+
 ---
 
 ## Connect with me:

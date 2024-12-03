@@ -26,6 +26,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  [![Firebase Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/Firebase_Logo.svg)](https://firebase.google.com/)
+ [![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Tailwind_CSS_Logo.svg)](https://tailwindcss.com/)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+
 </p>
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=Eniimz) -->

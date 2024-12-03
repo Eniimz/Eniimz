@@ -2,10 +2,11 @@
 <h3 align="center">I'm a Fullstack Web Dev</h3><br>  
 
 
-- 🔍 <h4>Interested in <strong>Low-level programming</strong> and exploring system-level concepts</h4>
-- 🧩 <h4>I'm currently learning <strong>Cloud Computing</strong></h4>
-- 💬 <h4>Ask me about <strong>Fullstack web development</strong> and <strong>Cloud</strong></h4>
-- 🗂️ <h4>Explore my projects at <a href="https://github.com/Eniimz">github.com/Eniimz</a></h4>
+#### 🔍 Interested in **Low-level programming** and exploring system-level concepts  
+#### 🧩 I'm currently learning **Cloud Computing**  
+#### 💬 Ask me about **Fullstack web development** and **Cloud**  
+#### 🗂️ Explore my projects at [github.com/Eniimz](https://github.com/Eniimz)
+
 
 
 ---

@@ -4,7 +4,7 @@
 - 🔍 Interested in **Low-level programming** and exploring system-level concepts<br>  
 - 🧩 I'm currently learning **Cloud Computing**<br>  
 - 💬 Ask me about **Fullstack web development** and **Cloud**<br>  
-- 🗂️ Explore my projects at [My GitHub](https://github.com/Eniimz)
+- 🗂️ Explore my projects at [github.com/Eniimz](https://github.com/Eniimz)
 
 ---
 

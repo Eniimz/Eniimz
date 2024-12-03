@@ -12,7 +12,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="LinkedIn" />
 </a>
 
 ## Languages and Tools:

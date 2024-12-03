@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hi, I'm __Azaz Ahsan__</h2><br>  
-<h3 align="center" >I'm a **Fullstack Web Developer** </h3><br>  
+<h2 align="center">👋 Hi, I'm Azaz Ahsan</h2><br>  
+<h3 align="center" >I'm a Fullstack Web Developer</h3><br>  
 🔍 Interested in **Low-level programming** and exploring system-level concepts<br>  
 🧩 I'm currently learning **Cloud Computing**<br>  
 💬 Ask me about **Fullstack web development** and **Cloud**<br>  

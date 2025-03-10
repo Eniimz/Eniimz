@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Fullstack Web Dev</h3><br>  
 
 - 🔍 <span style="font-size: 2.25em;">Interested in <strong>Backend</strong> and exploring engineering</span>  
-- 🧩 <span style="font-size: 2.25em;">I'm currently learning <strong>Cloud Computing</strong> and <strong>Cloud Computing</strong></span>  
+- 🧩 <span style="font-size: 2.25em;">I'm currently learning <strong>Cloud Computing</strong> and <strong>System Design</strong></span>  
 - 💬 <span style="font-size: 2.25em;">Ask me about <strong>Fullstack web development</strong> and <strong>Cloud</strong></span>  
 - 🗂️ <span style="font-size: 2.25em;">Explore my projects at <a href="https://github.com/Eniimz">github.com/Eniimz</a></span>
 

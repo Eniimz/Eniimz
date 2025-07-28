@@ -41,7 +41,7 @@
 <p align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> -->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eniimz" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---

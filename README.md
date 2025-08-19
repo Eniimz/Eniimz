@@ -7,9 +7,6 @@
 - 🗂️ <span style="font-size: 2.25em;">Explore my projects at <a href="https://github.com/Eniimz">github.com/Eniimz</a></span>
 - 📧 <span style="font-size: 2.25em;">You can contact me at <a href="mailto:azazahsan2004@gmail.com">azazahsan2004@gmail.com</a></span>
 
-
-
-
 ---
 
 ## Connect with me:
@@ -32,18 +29,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="Tailwind CSS Logo" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase Logo" width="50" height="50">
-
 </p>
-
-<!--![Profile Views](https://komarev.com/ghpvc/?username=Eniimz) -->
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> -->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eniimz" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
+
+<!--
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Eniimz&label=Views&color=blue&style=for-the-badge" alt="Profile Views" height="20"/>
+</p>
+-->

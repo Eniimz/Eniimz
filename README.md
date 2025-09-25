@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Azaz Ahsan</h1><br>  
-<h3 align="center">I'm a Fullstack Web Dev</h3>
+<h3 align="center">I'm a Fullstack Web Dev</h3><br>
 
 - 🔍 <span style="font-size: 2.25em;">Interested in <strong>Backend</strong> and exploring engineering</span>  
 - 🧩 <span style="font-size: 2.25em;">I'm currently learning <strong>AI, Cloud</strong> and <strong>System Design</strong></span>  

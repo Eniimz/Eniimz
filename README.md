@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Azaz Ahsan</h1><br>  
-<h3 align="center">I'm a Fullstack Web Dev</h3><br>
+<h3 align="center">A Software Engineer & Explorer</h3><br>
 
 - 🔍 <span style="font-size: 2.25em;">Interested in <strong>Backend</strong> and exploring engineering</span>  
 - 🧩 <span style="font-size: 2.25em;">I'm currently learning <strong>AI, Cloud</strong> and <strong>System Design</strong></span>  
@@ -39,8 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<!--
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Eniimz&label=Views&color=blue&style=for-the-badge" alt="Profile Views" height="20"/>
 </p>
--->
+

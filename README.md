@@ -44,11 +44,8 @@
   - linkedin: [azaz-ahsan](https://linkedin.com/in/azaz-ahsan)
   - web: [eniimz.me](https://eniimz.me)
 
-## 📊 GitHub Stats:
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eniimz" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eniimz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+  ![](https://github-readme-stats.vercel.app/api?username=Eniimz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)
+
 
 <!--
 <p align="right">

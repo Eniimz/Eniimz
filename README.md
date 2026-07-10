@@ -46,8 +46,8 @@
 
 ![](https://github-readme-stats-yourname.vercel.app/api?username=Eniimz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)
 
-<!--
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Eniimz&label=Views&color=blue&style=for-the-badge" alt="Profile Views" height="20"/>
 </p>
--->
+

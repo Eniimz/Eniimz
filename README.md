@@ -11,7 +11,6 @@
   ### things I've built
 
   **callplane** — Voice AI platform. Multi-tenant WebSocket streaming, full telephony stack, campaign management, atomic Redis call slots for TTS+STT concurrency. STT → LLM → TTS under 1s.
-  The concurrency was the hard part.
   
   **[2d-Metaverse-Backend](https://github.com/Eniimz/2d-Metaverse-Backend)** — Microservices backend for a real-time 2D multiplayer space. API gateway and a space-sync service handling live
   state across users. Still ongoing.
@@ -29,7 +28,9 @@
   ### the stack
 
   **Backend:** Python, FastAPI, Redis, PostgreSQL, Celery, WebSocket, TypeScript
+  
   **Voice/AI:** Deepgram, ElevenLabs, Telnyx, Vonage, Twilio, LLM orchestration
+  
   **Also:** Go, Next.js, MongoDB, RabbitMQ, Docker
 
   ---

@@ -41,7 +41,7 @@
   ### find me
 
   - email: [azazahsan2004@gmail.com](mailto:azazahsan2004@gmail.com)
-  - linkedin: [azaz-ahsan](https://linkedin.com/in/azaz-ahsan)
+  - linkedin: [azaz-ahsan](https://linkedin.com/in/azaz-ahsan-1a9330288)
   - web: [eniimz.me](https://eniimz.me)
 
 ![](https://github-readme-stats-yourname.vercel.app/api?username=Eniimz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)

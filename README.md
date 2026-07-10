@@ -1,5 +1,3 @@
-  ### Azaz
-
   **Azaz Ahsan**, software engineer. [eniimz.me](https://eniimz.me)
 
   ---

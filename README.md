@@ -3,7 +3,7 @@
   ---
 
   I like to build things that genuinely interest me, curiosity has always been a better guide than a plan.
-  Worked on backends in different architectures, and these days I'm working on voice agents and AI engineering — things that reach actual users and have to work.
+  Worked on & explored distributed and real time backends, and these days I'm working on voice agents and AI engineering, things that reach actual users and have high impact.
   Lately exploring harness engineering and evals, and working on [callplane.ai](https://callplane.ai) and [bitebuddy.ai](https://bitebuddy.ai).
 
   ---

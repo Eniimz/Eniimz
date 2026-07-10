@@ -44,8 +44,7 @@
   - linkedin: [azaz-ahsan](https://linkedin.com/in/azaz-ahsan)
   - web: [eniimz.me](https://eniimz.me)
 
-![](https://github-readme-stats.vercel.app/api?username=Eniimz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)
-
+![](https://github-readme-stats-yourname.vercel.app/api?username=Eniimz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)
 
 <!--
 <p align="right">

@@ -1,37 +1,46 @@
-<h1 align="center">👋 Hi, I'm Azaz Ahsan</h1><br>  
-<h3 align="center">Software Engineer</h3><br>
+  ### Azaz
 
-- 🔍 <span style="font-size: 2.25em;">Interested in <strong>Backend</strong> and exploring engineering</span>  
-- 🧩 <span style="font-size: 2.25em;">I'm currently learning <strong>AI, Cloud</strong> and <strong>System Design</strong></span>  
-- 💬 <span style="font-size: 2.25em;">Ask me about <strong>Fullstack Engineering</strong> and <strong>Cloud</strong></span>  
-- 🗂️ <span style="font-size: 2.25em;">Explore my projects at <a href="https://eniimz.vercel.app">eniimz.vercel.app</a></span>
-- 📧 <span style="font-size: 2.25em;">You can contact me at <a href="mailto:azazahsan2004@gmail.com">azazahsan2004@gmail.com</a></span>
+  **Azaz Ahsan**, software engineer. [eniimz.me](https://eniimz.me)
 
----
+  ---
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/azaz-ahsan-1a9330288/" target="_blank">
-  <img width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
-</a>
+  I like to build things that genuinely interest me, curiosity has always been a better guide than a plan.
+  Worked on backends in different architectures, and these days I'm working on voice agents and AI engineering — things that reach actual users and have to work.
+  Lately exploring harness engineering and evals, and working on [callplane.ai](https://callplane.ai) and [bitebuddy.ai](https://bitebuddy.ai).
 
-## Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="Tailwind CSS Logo" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase Logo" width="50" height="50">
-</p>
+  ---
 
----
+  ### things I've built
+
+  **callplane** — Voice AI platform. Multi-tenant WebSocket streaming, full telephony stack, campaign management, atomic Redis call slots for TTS+STT concurrency. STT → LLM → TTS under 1s.
+  The concurrency was the hard part.
+  
+  **[2d-Metaverse-Backend](https://github.com/Eniimz/2d-Metaverse-Backend)** — Microservices backend for a real-time 2D multiplayer space. API gateway and a space-sync service handling live
+  state across users. Still ongoing.
+
+  **[cypress](https://github.com/Eniimz/cypress)** — Real-time collaboration platform. Private and shared workspaces, file management, live sync via WebSockets. Stripe for subscriptions.
+
+  **[Distributed-File-Store](https://github.com/Eniimz/Distributed-File-Store)** — Decentralized P2P file storage in Go. Content addressing via SHA-1, AES-256 encryption in transit, automatic
+  replication across peer nodes, no central server.
+
+  **[Searchify-E](https://github.com/Eniimz/Searchify-E)** — AI-powered shopping assistant. Product discovery, price comparison, and wishlists. LLM-driven search with web scraping via
+  FireCrawl.
+  
+  ---
+
+  ### the stack
+
+  **Backend:** Python, FastAPI, Redis, PostgreSQL, Celery, WebSocket, TypeScript
+  **Voice/AI:** Deepgram, ElevenLabs, Telnyx, Vonage, Twilio, LLM orchestration
+  **Also:** Go, Next.js, MongoDB, RabbitMQ, Docker
+
+  ---
+
+  ### find me
+
+  - email: [azazahsan2004@gmail.com](mailto:azazahsan2004@gmail.com)
+  - linkedin: [azaz-ahsan](https://linkedin.com/in/azaz-ahsan)
+  - web: [eniimz.me](https://eniimz.me)
 
 ## 📊 GitHub Stats:
 <p align="center">
